@@ -8,7 +8,7 @@ app = Flask(__name__)
 def index():
     return '''
         <html>
-        <span>House of Metazord</span>
+        <span>Santhosh</span>
         <body>
 
         
