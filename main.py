@@ -8,7 +8,7 @@ app = Flask(__name__)
 def index():
     return '''
         <html>
-        <span>Vinitha&Hari</span>
+        <span>Sandy</span>
         <body>
 
         
